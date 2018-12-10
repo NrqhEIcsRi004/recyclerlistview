@@ -6,6 +6,7 @@ import {
     ScrollView,
     View,
 } from "react-native";
+import {ScrollView} from 'react-native-gesture-handler';
 import BaseScrollComponent, { ScrollComponentProps } from "../../../core/scrollcomponent/BaseScrollComponent";
 import TSCast from "../../../utils/TSCast";
 /***
